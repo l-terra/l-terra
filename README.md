@@ -5,7 +5,8 @@
 - 🌱 Learning whatever I’m interested in.
 - 📫 How to reach me: lucasta@ic.ufrj.br
 
-[![Top Langs](https://my-github-stats-seven.vercel.app/api/top-langs?username=l-terra&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=1-terra&layout=compact&size_weight=0.5&count_weight=0.5])](https://github.com/anuraghazra/github-readme-stats)
+
 
  <div> 
   <a href="https://www.linkedin.com/in/l-ta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
