@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 📖 I’m currently pursuing a degree in Computer Science.
+- 📖 I'm currently pursuing a Bachelor's degree in Computer Science at UFRJ.
+- 💼 I work as a DevOps Engineer at Equipe SIGA UFRJ.
 - 🔭 My main interests are Cloud Computing, SRE, DevOps and Platform Engineering.
 - 📫 How to reach me: lucasta@ic.ufrj.br
 
