@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 📖 I’m currently pursuing a degree in Computer Science.
-- 🔭 Working on becoming a software developer.
-- 🌱 Learning whatever I’m interested in.
+- 🔭 My main interests are Cloud Computing, SRE, DevOps and Platform Engineering.
 - 📫 How to reach me: lucasta@ic.ufrj.br
 
 [![Top Langs](https://my-github-stats-seven.vercel.app/api/top-langs/?username=l-terra&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
