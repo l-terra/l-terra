@@ -35,7 +35,7 @@ spec:
     - Platform Engineering
     - Site Reliability Engineering
     - Cloud Infrastructure
-    - Developer Experience
+    - Software Engineering
   contact: lucasta@ic.ufrj.br
 status:
   phase: Running
